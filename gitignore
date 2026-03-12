@@ -1,0 +1,113 @@
+# ─────────────────────────────────────────────
+#  Python
+# ─────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# ─────────────────────────────────────────────
+#  Virtual Environments
+# ─────────────────────────────────────────────
+venv/
+.venv/
+env/
+.env/
+ENV/
+
+# ─────────────────────────────────────────────
+#  This Project — Output Files
+# ─────────────────────────────────────────────
+
+# Audiobook outputs
+*.m4b
+*.m4a
+
+# Downloaded audio (intermediate files)
+*_audio.*
+combined_temp.*
+
+# Thumbnails downloaded from YouTube
+*_thumbnail.*
+*_converted.png
+
+# Chapter CSVs and metadata generated during processing
+*_chapters.csv
+*_meta.txt
+metadata.txt
+
+# Temporary working folders created during runs
+Audiobook_Output/
+
+# ─────────────────────────────────────────────
+#  Credentials & Secrets
+# ─────────────────────────────────────────────
+
+# YouTube cookies file (if you ever use --cookies)
+cookies.txt
+*.cookies
+
+# Any .env files with API keys or tokens
+.env
+*.env
+
+# ─────────────────────────────────────────────
+#  macOS
+# ─────────────────────────────────────────────
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# ─────────────────────────────────────────────
+#  Windows
+# ─────────────────────────────────────────────
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# ─────────────────────────────────────────────
+#  Linux
+# ─────────────────────────────────────────────
+*~
+.fuse_hidden*
+.nfs*
+
+# ─────────────────────────────────────────────
+#  Editors & IDEs
+# ─────────────────────────────────────────────
+
+# VS Code
+.vscode/
+
+# PyCharm / JetBrains
+.idea/
+*.iml
+
+# Vim / Neovim
+*.swp
+*.swo
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# Jupyter Notebooks (checkpoints)
+.ipynb_checkpoints/
+
+# ─────────────────────────────────────────────
+#  Logs & Temp Files
+# ─────────────────────────────────────────────
+*.log
+*.tmp
+*.temp
+ffmpeg_progress.txt
+filelist.txt
