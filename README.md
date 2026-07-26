@@ -7,6 +7,10 @@ Convert any YouTube video or playlist into a fully chapterized `.m4b` audiobook 
 ![Platform](https://img.shields.io/badge/platform-macOS%20%7C%20Linux%20%7C%20Windows-lightgrey)
 ![License](https://img.shields.io/badge/license-MIT-informational)
 
+<p align="center">
+  <img src="docs/media/hero.png" alt="youtube-to-audiobook" width="820">
+</p>
+
 ---
 
 ## Table of Contents
