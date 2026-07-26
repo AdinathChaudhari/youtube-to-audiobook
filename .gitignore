@@ -111,3 +111,6 @@ $RECYCLE.BIN/
 *.temp
 ffmpeg_progress.txt
 filelist.txt
+
+# Private About-image prompt (personal speciality — not published)
+docs/media/ABOUT-IMAGE.md
