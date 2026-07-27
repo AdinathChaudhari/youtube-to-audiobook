@@ -1,5 +1,9 @@
 # 🎧 YouTube → Audiobook Converter v8
 
+> [!NOTE]
+> **Archived — superseded by [audiobook-maker-pro](https://github.com/AdinathChaudhari/audiobook-maker-pro).**
+> Everything this tool does (YouTube video / playlist / channel → chapterized `.m4b` with YouTube chapters, cover art, metadata, and adaptive hardware-accelerated encoding) is a **subset of audiobook-maker-pro**, which also converts local folders, spreadsheets, and whole batches. This repo is read-only; use **audiobook-maker-pro** instead. History preserved here.
+
 Convert any YouTube video or playlist into a fully chapterized `.m4b` audiobook — with embedded cover art, rich metadata, and hardware-accelerated encoding.
 
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue?logo=python&logoColor=white)
